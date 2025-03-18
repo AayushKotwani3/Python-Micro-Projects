@@ -12,7 +12,7 @@ Some of the micro-projects you will find in this repository:
 ## 🔧 How to Run These Projects
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AayushKotwani3/Python-Micro-Pojects.git
+   git clone https://github.com/AayushKotwani3/Python-Micro-Projects.git
    ```
 2. Navigate to the project directory:
    ```bash
