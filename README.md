@@ -1,4 +1,4 @@
-# Python-Micro-Pojects
+
 # Python Micro Projects
 
 Welcome to the **Python Micro Projects** repository! 🚀
