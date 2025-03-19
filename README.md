@@ -8,6 +8,8 @@ This repository contains a collection of small yet useful Python projects that f
 ## 📌 Projects Included
 Some of the micro-projects you will find in this repository:
 - ✅ **Password Generator** – A script to generate secure passwords with customizable length and character types.
+- 🎯 Number Guesser – A game where the user tries to guess a randomly generated number within a defined range, receiving hints along the way.
+- ⏰ Alarm Timer – A simple countdown timer that plays an alarm sound when the time reaches zero.
 
 ## 🔧 How to Run These Projects
 1. Clone this repository:
